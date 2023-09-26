@@ -1,2 +1,2 @@
-# aratinga
+# Aratinga
 Content Management System
