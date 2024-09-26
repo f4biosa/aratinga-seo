@@ -1,7 +1,8 @@
 [project]
 name = "aratinga-seo"
 dynamic = ["version"]
-description = "Wagtail + Voreios Extensions enabling rapid development of brasilian public educational-focused websites."
+description = "Aratinga + Voreios Extensions enabling rapid development of brasilian public educational-focused websites."
+keywords = ["django", "seo"]
 readme = "README.md"
 license = {file = "LICENSE"}
 requires-python = ">=3.12"
@@ -10,7 +11,6 @@ authors = [
 ]
 dependencies = [
     "aratinga==0.1.0a0.dev0",
-
 ]
 
 [project.urls]
