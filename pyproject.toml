@@ -9,6 +9,7 @@ authors = [
 ]
 dependencies = [
     "aratinga==0.1.0a0.dev0",
+
 ]
 
 license = {file = "LICENSE.txt"}
@@ -21,4 +22,4 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [tool.hatch.version]
-path = "./src/aratinga-seo/__about__.py"
+path = "./src/aratinga_seo/__about__.py"
