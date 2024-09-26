@@ -3,6 +3,7 @@ name = "aratinga-seo"
 dynamic = ["version"]
 description = "Wagtail + Voreios Extensions enabling rapid development of brasilian public educational-focused websites."
 readme = "README.md"
+license = {file = "LICENSE"}
 requires-python = ">=3.12"
 authors = [
     {name = "Voreios", email = "fabio@voreios.com.br"}
@@ -11,8 +12,6 @@ dependencies = [
     "aratinga==0.1.0a0.dev0",
 
 ]
-
-license = {file = "LICENSE.txt"}
 
 [project.urls]
 Source = "https://github.com/voreios/aratinga-seo"
